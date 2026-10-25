@@ -1,0 +1,13 @@
+AI/ML Engineer - Entry Level
+
+Responsibilities:
+- Build and evaluate machine learning and NLP applications.
+- Develop Python APIs using FastAPI or Flask.
+- Work with embeddings, semantic search, vector databases, and retrieval-augmented generation (RAG).
+- Analyze data using pandas, NumPy, and scikit-learn.
+- Collaborate with engineers using Git and GitHub.
+
+Required skills:
+Python, SQL, machine learning, natural language processing, NLP, generative AI,
+large language models, embeddings, vector database, RAG, FastAPI, pandas,
+scikit-learn, Git, communication.

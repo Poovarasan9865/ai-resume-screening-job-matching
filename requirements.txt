@@ -1,0 +1,9 @@
+
+fastapi
+uvicorn
+python-multipart
+pydantic
+pypdf
+sentence-transformers
+scikit-learn
+ollama
