@@ -1,9 +1,7 @@
-
 fastapi
 uvicorn
 python-multipart
-pydantic
-pypdf
+pdfplumber
+requests
+streamlit
 sentence-transformers
-scikit-learn
-ollama
